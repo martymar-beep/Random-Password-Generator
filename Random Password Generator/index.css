@@ -1,0 +1,70 @@
+.main{
+background-color: #BAE6FD; 
+width: 600px;
+height: 550px;
+color: #111827;
+border: 10px solid black;
+}
+
+h1{
+margin-top: 115px;
+margin-left: 52px;
+font-weight: 800;
+width: 332px;
+height: 80px;
+margin-bottom: 0px;
+font-family: Karla;
+font-size: 40px;
+line-height: 40px;
+letter-spacing: -0.05em;
+text-align: left;
+}
+
+.headline2 {
+ color: cornflowerblue;  
+}
+
+h2{
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+margin-top: 0px;
+margin-left: 52px;
+margin-bottom: 40px;
+color: grey;
+}
+
+#generate-pw-btn{
+display: block;
+width: 191px;
+height: 42px;
+margin-left: 52px;
+margin-bottom: 42px;
+padding: 9px;
+border-radius: 6px;
+background: cornflowerblue;
+color: white;
+font-size: 16px;
+}
+
+hr {
+  border-bottom: 1px solid grey;
+  margin-left: 52px;
+  margin-bottom: 15px;
+  width: 478px;
+  }
+  
+#pw1, #pw2 {
+display: inline-block;
+background: #273549;
+margin-left: 52px;
+width: 211px;
+height: 30px;
+border-radius: 6px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+color: greenyellow;
+text-align: center;
+padding-top: 10px;
+}
