@@ -34,7 +34,11 @@ I actually use this project when I need a new password! I also enjoyed choosing 
 
 ### 🙋‍♀️ Author
 
-Margaret Martin 
--[Portfolio](https://astounding-muffin-e43077.netlify.app/)  
--[LinkedIn](https://www.linkedin.com/in/margaret-martin-55807438/)   
+Margaret Martin  
+- [Portfolio](https://astounding-muffin-e43077.netlify.app/)  
+- [LinkedIn](https://www.linkedin.com/in/margaret-martin-55807438/)  
 Email: devmartin.codes\[at]outlook\[dot]com
+
+
+
+
